@@ -124,7 +124,9 @@ The input column names must exactly match the pipeline's 33 training features. S
 - A model probability is not a guarantee or a final lending decision.
 - Any real deployment requires data-quality monitoring, fairness testing, human review, clear adverse-action processes, security controls, and compliance with applicable laws and regulations.
 - The model should be retrained and re-evaluated when the data distribution, policies, or product rules change.
-
+## Dataset 
+- **Source**: Kaggle
+- **Link**: https://www.kaggle.com/datasets/dharmendrapandit12/synthetic-bank-loan-approval-dataset-20k-records
 ## License
 
 No license has been specified for this repository. Add a license file before redistributing or using this work beyond personal or educational purposes.
